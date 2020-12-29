@@ -1,0 +1,11 @@
+{
+  "name": "code-challenges-js",
+  "version": "1.0.0",
+  "description": "My solutions for the LinkedIn Learning course 'Code Challenges: Javascript'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Sosa",
+  "license": "ISC"
+}
